@@ -34,5 +34,5 @@ Grafana dashboards for real-time performance visualization.
 
 Private ECR repositories for Docker images.
 
-RBAC, network policies, and secrets management in Kubernetes.
+ secrets management in Kubernetes.
 
